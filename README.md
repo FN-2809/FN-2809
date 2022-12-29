@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @FLFinn06.
+- 👋 Hi, I’m Finn.
 - 👀 I’m interested in gaming.
-- 🌱 I’m currently learning java.
-- 💞️ I’m looking to collaborate on nothoing at the moment.
+- 🌱 I’m currently learning java, javascript and python.
 - 📫 How to reach me: hss-fifa2806@hssfds.de
 
 <!---
